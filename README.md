@@ -1,0 +1,2 @@
+# SSIS-Data-Warehouse-Project-with-Incremental-Load-and-Power-BI-Dashboard
+This project demonstrates a complete end-to-end ETL pipeline using SQL Server Integration Services (SSIS) to extract, transform, and load data from an OLTP database into a star schema data warehouse. An incremental load mechanism is implemented to track changes efficiently, and a Power BI dashboard is used for business reporting.

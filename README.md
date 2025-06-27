@@ -28,6 +28,9 @@ This project demonstrates a complete end-to-end ETL pipeline using SQL Server In
 
    * FactOrders
    * DimCustomer, DimProduct, DimDate, DimShippers, DimSupplier, DimEmployee, DimAddress
+     ## Diagram Preview
+     ![image](https://github.com/user-attachments/assets/c7ba9f25-257b-4f42-8aa4-abc4c7d41d63)
+
 4. **Power BI Dashboard**:
 
    * KPIs: Total Orders, Return Rate (%), Avg Freight
